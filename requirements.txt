@@ -1,9 +1,5 @@
-
 matplotlib==3.8.3
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1707225640867/work/dist/numpy-1.26.4-cp311-cp311-macosx_11_0_arm64.whl#sha256=b62b8b824024855c3eb209bd45bfcf60bc9a11b94cbf9d5b7b25dc503021e672
-oauthlib==3.2.2
-1.post1
-scipy==1.12.0
+pandas==2.2.1
+plotly==5.19.0
 seaborn==0.13.2
 streamlit==1.33.0
